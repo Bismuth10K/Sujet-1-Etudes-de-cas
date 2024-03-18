@@ -123,7 +123,12 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-
+# Documents du prof
 Road_map_UE.pptx
+src/analyses_descriptives.py
+src/API_Query.py
+src/Programme_trait_1.py
+Data.json
+
 .idea/**
 Data/synop.csv
