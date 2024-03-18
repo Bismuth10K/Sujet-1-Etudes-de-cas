@@ -11,6 +11,7 @@ def clean_csv():
 			print(file)
 			df = pd.read_csv(data_dir + file, sep=";")
 			df = df.replace('mq', None)
+			df = df.drop(columns='Unnamed: 59')
 			df.to_csv(data_dir + file, index=False)
 
 
