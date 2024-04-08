@@ -1,0 +1,43 @@
+ID,Nom,Latitude,Longitude,Altitude,Adresse,Ville,Region
+7005,ABBEVILLE,50.136,1.834,69,"Abbeville, Chemin de la Station Météo, Le Haut de Justice, Abbeville, Somme, Hauts-de-France, France métropolitaine, 80100, France", Abbeville, Hauts-de-France
+7015,LILLE-LESQUIN,50.57,3.0975,47,"Route de l'Aéroport, Lesquin, Lille, Nord, Hauts-de-France, France métropolitaine, 59810, France", Lille, Hauts-de-France
+7020,PTE DE LA HAGUE,49.725167,-1.939833,6,"Le Cap, Auderville, La Hague, Cherbourg, Manche, Normandie, France métropolitaine, 50440, France", Cherbourg, Normandie
+7027,CAEN-CARPIQUET,49.18,-0.456167,67,"Route de Caumont, Carpiquet, Caen, Calvados, Normandie, France métropolitaine, 14650, France", Caen, Normandie
+7037,ROUEN-BOOS,49.383,1.181667,151,"Aéroport de Rouen Vallée de Seine, Allée des Glycines, Boos, Rouen, Seine-Maritime, Normandie, France métropolitaine, 76520, France", Rouen, Normandie
+7072,REIMS-PRUNAY,49.209667,4.155333,95,"Aérodrome de Reims en Champagne, La Manielle D 931, Prunay, Reims, Marne, Grand Est, France métropolitaine, 51360, France", Reims, Grand Est
+7110,BREST-GUIPAVAS,48.444167,-4.412,94,"Rue Roland Garros, ZAC de Prat Pip, Kernoas, Guipavas, Brest, Finistère, Bretagne, France métropolitaine, 29490, France", Brest, Bretagne
+7117,PLOUMANAC'H,48.825833,-3.473167,55,"Sémaphore du Cribo de Ploumanac'h, Boulevard du Sémaphore, Ranolien, La Clarté, Perros-Guirec, Lannion, Côtes-d'Armor, Bretagne, France métropolitaine, 22700, France", Lannion, Bretagne
+7130,RENNES-ST JACQUES,48.068833,-1.734,36,"Rennes Aéroport Bretagne, Rue Louise Bodin, Saint-Jacques Aéroport, Saint-Jacques-de-la-Lande, Rennes, Ille-et-Vilaine, Bretagne, France métropolitaine, 35091, France", Rennes, Bretagne
+7139,ALENCON,48.4455,0.110167,143,"Avenue de Quakenbrück, Courteille, Alençon, Orne, Normandie, France métropolitaine, 61000, France", Alençon, Normandie
+7149,ORLY,48.716833,2.384333,89,"Rue de la Travée, Orly Parc Centre, Acacias, Athis-Mons, Palaiseau, Essonne, Île-de-France, France métropolitaine, 91200, France", Palaiseau, Île-de-France
+7168,TROYES-BARBEREY,48.324667,4.02,112,"Aéroport de Troyes en Champagne, D 91, Barberey-Saint-Sulpice, Troyes, Aube, Grand Est, France métropolitaine, 10600, France", Troyes, Grand Est
+7181,NANCY-OCHEY,48.581,5.959833,336,"Base aérienne 133 Nancy-Ochey, Chemin de Crézilles, Ochey, Toul, Meurthe-et-Moselle, Grand Est, France métropolitaine, 54170, France", Toul, Grand Est
+7190,STRASBOURG-ENTZHEIM,48.5495,7.640333,150,"M 221, Holtzheim, Strasbourg, Bas-Rhin, Grand Est, France métropolitaine, 67810, France", Strasbourg, Grand Est
+7207,BELLE ILE-LE TALUT,47.294333,-3.218333,34,"Sémaphore du Talut, GR 340, Envague, Bangor, Lorient, Morbihan, Bretagne, France métropolitaine, 56360, France", Lorient, Bretagne
+7222,NANTES-BOUGUENAIS,47.15,-1.608833,26,"Aéroport Nantes-Atlantique, Rue de la Gilarderie, La Croix Jeannette, Le Rolly, Bouguenais, Nantes, Loire-Atlantique, Pays de la Loire, France métropolitaine, 44346, France", Nantes, Pays de la Loire
+7240,TOURS,47.4445,0.727333,108,"La Rue de Parcay, Pièces de Chizay, Parçay-Meslay, Tours, Indre-et-Loire, Centre-Val de Loire, France métropolitaine, 37210, France", Tours, Centre-Val de Loire
+7255,BOURGES,47.059167,2.359833,161,"Bourges, Rue Charles Durand, Beaulieu, Bourges, Cher, Centre-Val de Loire, France métropolitaine, 18000, France", Bourges, Centre-Val de Loire
+7280,DIJON-LONGVIC,47.267833,5.088333,219,"Aéroport de Dijon-Bourgogne, Rue de l'Aviation, Ouges, Dijon, Côte-d'Or, Bourgogne-Franche-Comté, France métropolitaine, 21600, France", Dijon, Bourgogne-Franche-Comté
+7299,BALE-MULHOUSE,47.614333,7.51,263,"Route de service, Neuweg, Blotzheim, Mulhouse, Haut-Rhin, Grand Est, France métropolitaine, 68730, France", Mulhouse, Grand Est
+7314,PTE DE CHASSIRON,46.046833,-1.4115,11,"La Conche, Saint-Denis-d'Oléron, Rochefort, Charente-Maritime, Nouvelle-Aquitaine, France métropolitaine, 17650, France", Rochefort, Nouvelle-Aquitaine
+7335,POITIERS-BIARD,46.593833,0.314333,123,"Rocade Ouest, La Blaiserie, Poitiers, Vienne, Nouvelle-Aquitaine, France métropolitaine, 86000, France", Poitiers, Nouvelle-Aquitaine
+7434,LIMOGES-BELLEGARDE,45.861167,1.175,402,"Aéroport International de Limoges-Bellegarde, Rue des Chatrades, Gâte-Soleil, Limoges, Haute-Vienne, Nouvelle-Aquitaine, France métropolitaine, 87430, France", Limoges, Nouvelle-Aquitaine
+7460,CLERMONT-FD,45.786833,3.149333,331,"Chemin de Praslong, Praslong, Clermont-Ferrand, Puy-de-Dôme, Auvergne-Rhône-Alpes, France métropolitaine, 63100, France", Clermont-Ferrand, Auvergne-Rhône-Alpes
+7471,LE PUY-LOUDES,45.0745,3.764,833,"Fontannes, Chaspuzac, Le Puy-en-Velay, Haute-Loire, Auvergne-Rhône-Alpes, France métropolitaine, 43320, France", Le Puy-en-Velay, Auvergne-Rhône-Alpes
+7481,LYON-ST EXUPERY,45.7265,5.077833,235,"Rue d'Allemagne, Colombier-Saugnieu, Lyon, Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69124, France", Lyon, Auvergne-Rhône-Alpes
+7510,BORDEAUX-MERIGNAC,44.830667,-0.691333,47,"Bordeaux, Rue Dieudonné Costes, Cité Maryse Bastié, Beutre, Mérignac, Bordeaux, Gironde, Nouvelle-Aquitaine, France métropolitaine, 33700, France", Bordeaux, Nouvelle-Aquitaine
+7535,GOURDON,44.745,1.396667,260,"239, Chemin de la Station Météo, Gagnepas, Gourdon, Lot, Occitanie, France métropolitaine, 46300, France", Gourdon, Occitanie
+7558,MILLAU,44.1185,3.0195,712,"Millau, Vers Font de jouc, Fons de Joug, Millau, Aveyron, Occitanie, France métropolitaine, 12100, France", Millau, Occitanie
+7577,MONTELIMAR,44.581167,4.733,73,"Chemin de l'Entrée de l'Aérodrome, Cité des Jonquières, Montélimar, Nyons, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26200, France", Nyons, Auvergne-Rhône-Alpes
+7591,EMBRUN,44.565667,6.502333,871,"Communauté des communes de Serre-Ponçon, 6, Impasse de l'Observatoire, Saint Surnin, Embrun, Gap, Hautes-Alpes, Provence-Alpes-Côte d'Azur, France métropolitaine, 05200, France", Gap, Provence-Alpes-Côte d'Azur
+7607,MONT-DE-MARSAN,43.909833,-0.500167,59,"Mont-de-Marsan, Landes, Nouvelle-Aquitaine, France métropolitaine, 40000, France",Mont-de-Marsan, Nouvelle-Aquitaine
+7621,TARBES-OSSUN,43.188,0.0,360,"Cité de l'Aéroport, Juillan, Tarbes, Hautes-Pyrénées, Occitanie, France métropolitaine, 65290, France", Tarbes, Occitanie
+7627,ST GIRONS,43.005333,1.106833,414,"Aérodrome de Saint-Girons - Antichan, D 33A, Saint-Lizier, Saint-Girons, Ariège, Occitanie, France métropolitaine, 09190, France", Saint-Girons, Occitanie
+7630,TOULOUSE-BLAGNAC,43.621,1.378833,151,"Impasse Maryse Hilsz, Blagnac, Toulouse, Haute-Garonne, Occitanie, France métropolitaine, 31700, France", Toulouse, Occitanie
+7643,MONTPELLIER,43.577,3.963167,2,"Aéroport de Montpellier - Méditerranée, Rue du Pont de Got, Vauguières-le-Bas, Mauguio, Montpellier, Hérault, Occitanie, France métropolitaine, 34130, France", Montpellier, Occitanie
+7650,MARIGNANE,43.437667,5.216,9,"Aéroport de Marseille Provence, Chemin de l'Étang, Vitrolles, Istres, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13127, France", Istres, Provence-Alpes-Côte d'Azur
+7661,CAP CEPET,43.079333,5.940833,115,"Chemin Rural de Cavalas, Saint-Mandrier-sur-Mer, Toulon, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83430, France", Toulon, Provence-Alpes-Côte d'Azur
+7690,NICE,43.648833,7.209,2,"Mike Sierra, Avenue Didier Daurat, Nice, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France métropolitaine, 06703, France", Nice, Provence-Alpes-Côte d'Azur
+7747,PERPIGNAN,42.737167,2.872833,42,"Avenue Maurice Bellonte, Torremila, Perpignan, Pyrénées-Orientales, Occitanie, France métropolitaine, 66602, France", Perpignan, Occitanie
+7761,AJACCIO,41.918,8.792667,5,"Station lancement radiosondes, B, Ajaccio, Corse-du-Sud, Corse, France métropolitaine, 20000, France", Ajaccio, Corse
+7790,BASTIA,42.540667,9.485167,10,"Route de la Canonica, Panconi, Canonica, Lucciana, Bastia, Haute-Corse, Corse, France métropolitaine, 20290, France", Bastia, Corse
